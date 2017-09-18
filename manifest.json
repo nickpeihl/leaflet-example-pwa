@@ -1,0 +1,26 @@
+{
+  "short_name": "Leaflet PWA",
+  "name": "Leaflet Choropleth Example Progressive Web App",
+  "display": "fullscreen",
+  "background_color": "#FFEDA0",
+  "theme_color": "#000000",
+  "icons": [{
+    "src": "launcher-icon-120.png",
+    "type": "image/png",
+    "sizes": "120x120"
+  }, {
+    "src": "launcher-icon-192.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }, {
+    "src": "launcher-icon-384.png",
+    "type": "image/png",
+    "sizes": "384x384"
+
+  }, {
+    "src": "launcher-icon-512.png",
+    "type": "image/png",
+    "sizes": "512x512"
+  }],
+  "start_url": "/index.html"
+}
